@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 
-// Function to convert grade to grade points
 float getGradePoint(char grade) {
     switch(grade) {
         case 'A': return 10;
