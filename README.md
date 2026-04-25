@@ -25,6 +25,8 @@ This project is a simple CGPA Calculator developed using C++. It calculates GPA 
 
 💻 Code
 
+```cpp
+
 #include <iostream>
 using namespace std;
 
@@ -82,6 +84,7 @@ int main() {
 
     return 0;
 }
+```
 
 ---
 
