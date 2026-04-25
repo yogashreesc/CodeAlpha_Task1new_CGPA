@@ -1,20 +1,13 @@
-🎓 CGPA Calculator (C++)
+ CGPA Calculator (C++)
 
-📌 Description
+ Description
 
 This project is a simple CGPA Calculator developed using C++. It calculates GPA for each semester and the final CGPA based on user input such as credit hours and grades.
 
 ---
 
-🛠️ Technologies Used
 
-- C++
-- Standard Input/Output
-
----
-
-
-💻 Code
+ Code
 
 ```cpp
 
@@ -77,22 +70,10 @@ int main() {
 }
 ```
 
----
-
-📷 Sample Output
+ Sample Output
 
 "Output" (output.jpg)
 
----
-
-📚 Learning Outcome
-
-- Understanding loops and functions in C++
-- Working with user input
-- GPA and CGPA calculation logic
-
----
-
-👩‍💻 Author
+Author
 
 Yogashree S C
