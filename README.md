@@ -73,7 +73,7 @@ int main() {
 
  ## Sample Output
 
-![Output](output.jpg)
+[![Output](output.jpg)](output.jpg)
 
 Author
 
