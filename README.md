@@ -72,8 +72,7 @@ int main() {
 ```
 
  ## Sample Output
-
-[![Output](output.jpg)](output.jpg)
+[![Output](IMG_20260425_233103.jpg)](IMG_20260425_233103.jpg)
 
 Author
 
