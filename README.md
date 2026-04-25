@@ -68,11 +68,12 @@ int main() {
 
     return 0;
 }
+
 ```
 
- Sample Output
+ ## Sample Output
 
-"Output" (output.jpg)
+![Output](output.jpg)
 
 Author
 
